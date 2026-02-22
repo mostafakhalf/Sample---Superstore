@@ -10,6 +10,7 @@ performing products, and sales breakdown by category.
 2-Pivot Tables
 3-Charts
 4-Data Cleaning
+5-Power BI
 
 #Dataset 
 1️⃣ Row ID
