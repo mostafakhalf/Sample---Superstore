@@ -70,6 +70,8 @@ Net profit on the transaction (can be positive + or negative -
 [Dashboard Screenshot]!
 ![1](https://github.com/user-attachments/assets/1747fd49-7540-48b8-84c6-c3f61a60c3cc)
 ![2](https://github.com/user-attachments/assets/95ebf76b-346c-4a07-a960-064d8bf01f1d)
+![3](https://github.com/user-attachments/assets/552a09c5-99c1-40bd-a0e4-40dcaff99a15)
+
 
 #Insights
 These charts provide a comprehensive overview of financial and business performance across categories, regions, and customer segments. They assist in making strategic decisions to improve sales and profitability and reduce losses.
